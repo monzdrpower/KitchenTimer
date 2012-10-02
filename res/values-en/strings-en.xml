@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Kitchen Timer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Kitchen Timer</string>
+    <string name="init_time_label">Setup timer</string>
+    <string name="add_minute">+ 1 minute</string>
+    <string name="add_10_minutes">+ 10 minites</string>
+    <string name="add_30_minutes">+ 30 minites</string>
+    <string name="start_timer">Start timer</string>
+    <string name="stop_timer">Stop timer</string>
+    <string name="clear_timer">Clear timer</string>
+    <string name="ready">Ready!</string>
+    <string name="almost_ready">Almost ready!</string>
+    <string name="time_prefix">Time:</string>
+    <string name="time_to_cook_prefix">To cook:</string>
+    <string name="minutes">min.</string>
+    <string name="hours">h.</string>
+    
+</resources>

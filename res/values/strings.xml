@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Кухонный таймер</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_main">Кухонный таймер</string>
+    <string name="init_time_label">Установите время</string>
+    <string name="add_minute">+ 1 минута</string>
+    <string name="add_10_minutes">+ 10 минут</string>
+    <string name="add_30_minutes">+ 30 минут</string>
+    <string name="start_timer">Старт</string>
+    <string name="stop_timer">Стоп</string>
+    <string name="clear_timer">Сбросить таймер</string>
+    <string name="ready">Готово!</string>
+    <string name="almost_ready">Уже почти готово!</string>
+    <string name="time_prefix">Время:</string>
+    <string name="time_to_cook_prefix">Осталось:</string>
+    <string name="minutes">мин.</string>
+    <string name="hours">ч.</string>
+
+</resources>
